@@ -3,6 +3,10 @@
 Food delivery operations analytics project analyzing SLA breach patterns 
 across 43,853 food delivery orders.
 
+## Project Walkthrough
+
+▶️ [Watch the full project walkthrough here](https://youtu.be/aXqFPX3S7_0?si=GKOFdKua56CFisGv)
+
 ## Business Problem
 A food delivery platform is breaching its 30-minute SLA on ~30% of orders.
 This project identifies the key drivers and provides actionable operational recommendations.
